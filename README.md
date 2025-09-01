@@ -13,3 +13,10 @@ Week 3 Assignment Practice Docs-as-Code
 5. Dr. Miranda Bailey
 
 ### Best Episodes
+
+* "Death and All His Friends" (S6:E24)
+* "Ring of Fire" (S13:E24)
+* "Bend and Break" (S11:E5)
+* "I Saw What I Saw" (S6:E6)
+* "All I Could Do Was Cry" (S11:E11)
+* "One Day Like This" (S14:E17)
