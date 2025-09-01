@@ -4,6 +4,8 @@ Week 3 Assignment Practice Docs-as-Code
 
 ## My Grey's Anatomy Opinions
 
+![Grey's Anatomy Season 1](images/greys-season1-promo.webp)
+
 ### Best Characters
 
 1. Dr. Cristina Yang
